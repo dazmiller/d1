@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3276 1830" style="enable-background:new 0 0 3276 1830;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:url(#SVGID_1_);}
+	.st1{opacity:0.2;fill:url(#SVGID_2_);}
+	.st2{opacity:0.2;fill:url(#SVGID_3_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1067.3041" y1="1067.3107" x2="1067.3041" y2="-9.094947e-13">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st0" d="M0,881.1c266.2,138.6,604.4,210.1,992,179.1c500.5-40.1,750.6-152.4,1142.6-446.9
+	C2002.9,419.9,1910.8,247.4,1812.4,0H0V881.1z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="2705.3042" y1="1474.0988" x2="2705.3042" y2="122.9222">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st1" d="M2404.2,402.6c-98.7,79.2-187.1,148.7-269.6,210.6c53.7,78.9,113.9,161.2,183.9,253.5
+	c160.7,212,574.5,578.2,957.5,607.3V130.7C3003.8,95.4,2683.5,178.7,2404.2,402.6z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1638" y1="1830" x2="1638" y2="613.2569">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st2" d="M2318.5,866.8c-70-92.3-130.2-174.6-183.9-253.5c-392,294.5-642.1,406.7-1142.6,446.9
+	c-387.7,31.1-725.8-40.4-992-179.1V1830h3276v-355.9C2893,1445,2479.2,1078.8,2318.5,866.8z"/>
+</svg>

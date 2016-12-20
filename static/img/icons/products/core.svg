@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 254.9 294.3" style="enable-background:new 0 0 254.9 294.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EDEDED;}
+	.st1{fill:#F6F6F6;}
+	.st2{fill:#DADADA;}
+	.st3{fill:url(#bg1);}
+	.st4{opacity:0.12;fill:#FFFFFF;}
+	.st5{opacity:0.12;}
+</style>
+<g>
+	<polygon class="st0" points="254.9,73.6 254.9,220.7 127.5,294.3 0,73.6 	"/>
+	<polygon class="st1" points="254.9,73.6 127.5,0 0,73.6 127.4,147.1 	"/>
+	<polygon class="st2" points="0,73.5 0,220.7 127.4,294.2 127.4,147.1 	"/>
+	<g>
+		<linearGradient id="bg1" gradientUnits="userSpaceOnUse" x1="15978.5801" y1="8010.4614" x2="16063.4648" y2="7863.437" gradientTransform="matrix(-1 0 0 -1 16148.46 8083.8247)">
+			<stop  offset="0" style="stop-color:#E62F17"/>
+			<stop  offset="0.6905" style="stop-color:#F28830"/>
+			<stop  offset="1" style="stop-color:#F2BB30"/>
+		</linearGradient>
+		<polygon class="st3" points="42.6,195.9 127.4,244.9 212.3,195.9 212.3,97.9 127.4,48.9 42.6,97.9 		"/>
+		<polygon class="st4" points="42.5,195.9 127.4,244.9 212.3,195.9 127.4,146.9 		"/>
+		<polygon class="st5" points="212.3,195.9 212.3,97.9 127.4,48.9 127.4,146.9 		"/>
+	</g>
+	<g>
+		<polygon class="st0" points="169.9,122.6 127.4,98.1 85,122.6 85,171.7 127.4,196.2 169.9,171.7 		"/>
+		<polygon class="st1" points="169.9,122.6 127.4,98.1 85,122.6 127.4,147.1 		"/>
+		<polygon class="st2" points="85,122.6 85,171.7 127.4,196.2 127.4,147.1 		"/>
+	</g>
+</g>
+</svg>
